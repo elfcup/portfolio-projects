@@ -1,0 +1,67 @@
+header {
+		background-color: #4aaaa5;
+		display: flex;
+
+}
+
+section {
+		background-color: purple;
+	
+		width: 960px;
+		float: left;
+		
+}
+
+body {
+		width: 960px;
+}
+
+#name {
+		padding-left: 50px;
+		flex: 3;
+}
+
+#links {
+		flex: 1;
+		margin-top: 30px;
+}
+
+#div1 {
+		background-color: #ffffff;
+		
+		width: 650px;
+		margin-top: 10px;
+		margin-bottom: 10px;
+		float: left;
+
+}
+
+#img1 {
+		float:left;
+		margin: 10px;
+}
+
+p {
+	margin: 30px;
+}
+#div2 {
+		background-color: #ffffff;
+	
+		width: 270px;
+		margin-top: 10px;
+		float: right;
+
+}
+
+footer {
+		background-color: #666666;
+		clear: both;
+		height: 50px;
+		text-align: center;
+		font-size: 12px;
+		padding-top: 30px;
+
+}
+
+/*border: 2px, solid, #dddddd;
+		padding: 40px;*/
